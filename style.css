@@ -1,0 +1,30 @@
+h1 { 
+    background-image: url('https://cdn.wallpapersafari.com/31/65/r6DsZY.jpg');
+    height: 1600px;
+    width: 5700px;
+    background-size: cover;
+    font-size: 800px;
+    font-family:Lucida Handwriting, cursive;
+    text-align: center;
+    position: fixed top;
+    padding-top: 0px;
+}
+
+h2 {
+    font-family: Lucida Handwriting, cursive;
+    font-size: 100px;
+}
+
+h3 {
+    border-style: solid white 3px;
+    font-size: 50px;
+}
+
+body {
+    background-color: rgb(181, 222, 241);
+}
+
+div {
+    border-style: dotted rgb(180, 180, 180) 5px;
+}
+
